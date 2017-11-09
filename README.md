@@ -1,24 +1,4 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Pour le projet du jour nous avons utilisé les ressources suivantes
+https://hackernoon.com/service-objects-in-ruby-on-rails-and-you-79ca8a1c946e
+https://www.theodinproject.com/courses/ruby-on-rails/lessons/working-with-external-apis
